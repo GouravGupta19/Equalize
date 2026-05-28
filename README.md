@@ -6,7 +6,7 @@ Streamline group expenses with ease — Equalize makes it simple to track, split
 
 ## 🚀 Live Demo
 
-A live version is available at: https://fair-share-ujgs.vercel.app/
+A live version is available at: https://equalize-iota.vercel.app/
 
 ---
 
