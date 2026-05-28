@@ -1,15 +1,12 @@
-````md
 # Equalize
 
-Streamline group expenses with ease — FairShare makes it simple to track, split, and settle shared costs.
+Streamline group expenses with ease — Equalize makes it simple to track, split, and settle shared costs.
 
 ---
 
 ## 🚀 Live Demo
 
-A live version is available at:
-
-https://fair-share-ujgs.vercel.app/
+A live version is available at: https://fair-share-ujgs.vercel.app/
 
 ---
 
@@ -42,29 +39,26 @@ https://fair-share-ujgs.vercel.app/
 ## 📥 Installation & Setup
 
 1. **Clone the repository**
-   ```bash
+```bash
    git clone https://github.com/GouravGupta19/Equalize.git
-````
+```
 
 2. **Navigate to Project Folder**
-
-   ```bash
+```bash
    cd equalize
-   ```
+```
 
 3. **Install dependencies**
-
-   ```bash
+```bash
    npm install
-   ```
+```
 
 4. **Start the development server**
-
-   ```bash
+```bash
    npm start
-   ```
+```
 
-5. **Open in your browser**
-    ```
+5. **Open in your browser**  
+```bash
    Go to http://localhost:3000 to explore Equalize locally.
-    ```
+```
